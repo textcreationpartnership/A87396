@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves for England from the Kings most Excellent Majesty, and the Commissioners for the treaty; declaring, their results and proceedings (at Newport in the Isle of VVight) for composing of all differences within this bleeding kingdom; and his Majesties declaration for peace. Likewise, a declaration of the French-men, touching the Prince of VVales, and his Majestiess [sic] letter, concerning both houses. / Signed, Charles R.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87396</idno><idno type="EEBO-CITATION">50805845</idno>
+  <idno type="VID">162249</idno>
+  <idno type="EEBO-PROQUEST">2240881962</idno>
+  
+            <idno type="STC">Wing J1132</idno>
+            <idno type="STC">Thomason E464_26</idno>
+            <idno type="STC">ESTC R232371</idno>
+            <idno type="OCLC">50805845</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves for England from the Kings most Excellent Majesty, and the Commissioners for the treaty; declaring, their results and proceedings (at Newport in the Isle of VVight) for composing of all differences within this bleeding kingdom; and his Majesties declaration for peace. Likewise, a declaration of the French-men, touching the Prince of VVales, and his Majestiess [sic] letter, concerning both houses. / Signed, Charles R.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>in the year of joy, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of letters, including one from Charles I.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162249:1"/>
+            <p>JOYFULL NEVVES FOR ENGLAND From the Kings most Excellent Majesty, and the Commis<g ref="char:EOLhyphen"/>sioners for the <hi>Treaty;</hi> Declaring, their results and pro<g ref="char:EOLhyphen"/>ceedings (at <hi>Newport</hi> in the Isle of <hi>VVight)</hi> for compo<g ref="char:EOLhyphen"/>sing of all differences within this bleeding Kingdom; and his Majesties <hi>Declaration</hi> for <hi>Peace.</hi> Likewise, a <hi>Declara<g ref="char:EOLhyphen"/>tion</hi> of the <hi>French-men,</hi> touching the Prince of <hi>VVales,</hi> and his Majestiess Letter, concerning both Houses.</p>
+            <p>Signed, CHARLES R.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown, used as a printer's device</figDesc>
+            </figure>
+            <p>
+               <add>Sept y<seg rend="sup">e</seg> 21</add> Imprinted at <hi>London,</hi> in the year of joy, 1648.</p>
+            <pb facs="tcp:162249:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:162249:2"/>
+            <head>JOYFULL NEWES FOR ENGLAND FROM The Kings most Excellent Majesty, and the right Ho<g ref="char:EOLhyphen"/>norable the Commissioners of the Treaty a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Newport</hi> in the Isle of <hi>VVight.</hi>
+            </head>
+            <opener>
+               <salute>Right Honored,</salute>
+            </opener>
+            <p>THe Treaty goes on very succesfully (as yet) and it is hoped a good end will follow so happy a beginning, his <hi>Majesty</hi> doth very wel approve of the <hi>Propositions</hi> of both Houses, and so doth the Lords and Gentlemen attending his Royall person, here is a fair correspondency between
+<pb n="2" facs="tcp:162249:3"/> the Commissioners on both sides, and great hopes of a happy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>econciliation.</p>
+            <p>They have made some progresse into the two first <hi>Proposals, viz. Religion, and recalling of his Majesties Declarations, &amp;c.</hi> and seem to go hand in hand, in a mu<g ref="char:EOLhyphen"/>tuall compliance and concurrence, for a finall com<g ref="char:EOLhyphen"/>posure of all distractions in these his Majesties di<g ref="char:EOLhyphen"/>stressed Realm and Dominions.</p>
+            <p>And for the better effecting thereof, and removing of all jealousies, his Majesty hath declared his graci<g ref="char:EOLhyphen"/>ous will and pleasure to the Commissioners, touching all his subjects in generall, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>His Maiesties Declaration to the Commissioners.</head>
+                        <p>That none could have more hearty desires of peace then he. How he had nothing of ill will to any, but indeed was, and would to the utmost, endeavour to appear a friend to all, especially to the languishing kingdom.</p>
+                        <p>His Majesty and the Commissioners have sate close these two dayes, severall Objections and Queries are proposed by the Councell on both sides, treat mode<g ref="char:EOLhyphen"/>ratly, and with much amity. Mr. <hi>Palmer</hi> (one of His Majesties Councell) is much applauded for the beau<g ref="char:EOLhyphen"/>ty of his excellence, by endeavouring to cleere all scruples.</p>
+                        <p>Great is our expectations in these parts, touching the event of the Treaty, the whole face of this Island being fixed thereon for peace, and the prayers of each true subject eccho'd up to Heaven for a blessing ther<g ref="char:EOLhyphen"/>upon.</p>
+                        <pb n="3" facs="tcp:162249:3"/>
+                        <p> All their proceedings (as yet) tendeth to Unity, in the beginning of this their first part of the Treaty, and it is ho<g ref="char:EOLhyphen"/>ped their future consultations will satisfie all our doubts and desires, and that the great Jehovah of Heaven will be pleased to crown th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ir endeavours with blessings of Peace, that so all the sad differences between the <hi>King</hi> and his <hi>People</hi> may be removed, and the Head and the Members firm<g ref="char:EOLhyphen"/>ly united, which God grant, and bring to a sudden perfec<g ref="char:EOLhyphen"/>tion, that we may see sweet and comfortab<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e dayes once a<g ref="char:EOLhyphen"/>gain, by the happy enjoyment of a finall and everlasting peace.</p>
+                        <p>There was a generall report this day throughout <hi>New<g ref="char:EOLhyphen"/>port,</hi> and other places, that there was great hopes of his Ma<g ref="char:EOLhyphen"/>jesties signing to the four first Bills, namely, the recalling of his <hi>Proclamations</hi> and <hi>Declarations, Church government, Militia, and the businesse of Ireland;</hi> these four are the first which they insist and treat upon, and it is hoped few dayes will produce the hapyy event and successe thereof; which is the constant prayer of</p>
+                        <closer>
+                           <signed>Your devoted servant, <hi>G. CRESWELL.</hi>
+                           </signed>
+                           <dateline>Newport <date>19▪ Septem. 164<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</date>
+                           </dateline>
+                        </closer>
+                        <postscript>
+                           <head>Postscript.</head>
+                           <p>Out of Scotland we hear the Marquis of <hi>Argyle</hi> hath a Briggade of about 4000 Foot, and 1500 Horse, in opposi<g ref="char:EOLhyphen"/>tion to those which armed against <hi>England,</hi> which with the ill successe of those that came in hither, is a great terrour to the Committee of Estates, and puts them in a <hi>delema</hi> whe<g ref="char:EOLhyphen"/>ther they were best to sit any longer at Edenburgh, or go to the head-quarters of <hi>Monro,</hi> and continue in the head of hi<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Army.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162249:4"/>
+            <head>The Kings Majesties Letter touching the Treaty.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>IT is no small comfort to me, that my native Country hath so true a sense of my present condition, as I find expressed by your Letter of the 8 of this moneth, and your Declaration, both which I received upon Friday last, and the same reason which makes you discreetly and generously at this time, forbear to presse any thing to me, hinders me likewise to make any particular pro<g ref="char:EOLhyphen"/>fessions unto you, lest it may be imagined that desire of liberty should now be the only Secret ary to my thoughts: yet thus much I cannot but say, that as in all humane Reason, nothing but a free personall Treaty with me, can settle the unhappy distractions of these distressed Kingdoms: so, if that could once be had, I would not doubt, but that (by the grace of God) a happy peace would soon follow.</p>
+            <p>Such force (I believe) true reason has in the hearts of all men when it may be cleerly and calmly heard; and I am not ashamed at all times to professe, that it hath, and so shall be alwayes want of understanding, not of will, if I do not yeeld to reason when<g ref="char:EOLhyphen"/>soever, and from whomsoever I hear it; and it were a strange thing, if Reason should be lesse esteemed because it comes from me, which I do not expect from you: your Declaration seeming to (and I hope your actions will prove that I am not deceived) to be so well grounded upon Honour and Iustice, that albeit by way of opinion I cannot give a placet to every clause in it: yet I am confident, upon a calm and friendly debate we shall very well a<g ref="char:EOLhyphen"/>gree.</p>
+            <p>To conclude, I cannot for the present better shew my thank<g ref="char:EOLhyphen"/>fullnesse to you, for the generous and loyall expressions of your af<g ref="char:EOLhyphen"/>fections
+<pb n="5" facs="tcp:162249:4"/> to me, then by giving you my honest and sincere advice, which is really and constantly without seeking private Ends, to pursue the publike professions in your Declaration, as sincere Christians and good subjects ought to do, alwayes remembring thut as the best foundation of Loyalty is Christianity; so true Christianity teaches perfect Loyalty, for without this reciproca<g ref="char:EOLhyphen"/>tion neither is truly what they pretend to be: But <hi>I</hi> am both con<g ref="char:EOLhyphen"/>fident that needs not to you, as likewise that you will rightly un<g ref="char:EOLhyphen"/>derstand this, which is affectionatly intended by</p>
+            <closer>
+               <signed>Your C. R.</signed>
+            </closer>
+            <postscript>
+               <head>The surprisall of the Island of Scilly by the French, and their Declaration to keep it for the prince of WALES.</head>
+               <head type="sub">Postscript.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>Upon the close of the fore-going Letter, here arrived a Post, who advertized us of the sur<g ref="char:EOLhyphen"/>prizing of the Island of <hi>Scilly,</hi> by a party from <hi>France,</hi> the manner thus, That upon Thursday night last, about five hundred musquetiers landed in the said Island, and by treachery seized on our Forts▪ possessed them<g ref="char:EOLhyphen"/>selves of the Ordnance, and Magazine, which done, they marched up to Colonell <hi>Bullers</hi> quarters, the Go<g ref="char:EOLhyphen"/>vernour surprized him likewise, and committed him to safe custody.</p>
+               <pb n="6" facs="tcp:162249:5"/>
+               <p> This sudden surprizall, did not a little amaze the Governour, being struck into a great passion, but too late to prevent, for through treachery and negligence, they are become prisoners to the proud insulting <hi>French,</hi> and that stately Island in great danger to be kept against the Crown of <hi>England;</hi> although under a pretence they have declared, That they will keep the said Castle, Forts, and Island for his Highnesse the Prince of <hi>Wales.</hi>
+               </p>
+               <p>This is a place of great concernment to the West of <hi>England,</hi> being a <hi>key,</hi> to keep out, or let in a forraigne Enemy; and it is feared, that much bloud mill be shed, before it be regaind.</p>
+               <closer>
+                  <dateline>Newport in the Isle of Wight, <date>Septem. 19. 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
